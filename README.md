@@ -18,6 +18,10 @@ Technologies
 The assignment should be developed on Typescript with BDD, Cucumber, WebdriverIO, since this is the framework we are using currently.
 
 ## Getting Started
-- install [nodejs](https://nodejs.org/) then run the following commands;
+- install [nodejs](https://nodejs.org/) then run the following commands inside the pvh directory after cloning the repo;
 1. `npm install`
 2. `npm test`
+
+## Reporting
+1. spec report on the same window as an output of `npm test`
+2. cucumber json report could be found [.tmp\json]

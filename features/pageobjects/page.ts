@@ -7,6 +7,7 @@ export default class Page {
     * Opens a sub page of the page
     */
     public open () {
+        browser.maximizeWindow();
         return browser.url('/');
     }
 }
