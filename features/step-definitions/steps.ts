@@ -51,4 +51,5 @@ Then(/^I should see my account$/, async () => {
 });
 
 Then(/^I should see new (.*) added$/, async (address) => {
+    
 });
